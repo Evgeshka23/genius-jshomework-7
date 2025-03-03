@@ -1,0 +1,23 @@
+#text {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin-bottom: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+.nav {
+  list-style-type: none;
+  color: white;
+}
+
+.item {
+  padding: 10px;
+  margin: 10px;
+  background-color: #333;
+  width: 200px;
+  text-align: center;
+}
